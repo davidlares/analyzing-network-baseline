@@ -8,9 +8,9 @@ The `baseline.py` script calculates the network traffic profile of a known host 
 
 The two common indicators are the `average` and the `ratio`.
 
-1. The average per second is the rate of the duration seconds divided by the total packets. If the average is higher than normal, this could indicate a sort of malicious network attack.
+1. The `average` per second is the rate of the duration seconds divided by the total packets. If the average is higher than normal, this could indicate a sort of malicious network attack.
 
-2. The ratio can be an indicator too. The ideal ratio value is that most packets generated must be part of a session if this value is sequentially decreased in profile sessions, which can be in presence of a DDoS attack
+2. The `ratio` can be an indicator too. The ideal ratio value is that most packets generated must be part of a session if this value is sequentially decreased in profile sessions, which can be in presence of a DDoS attack
 
 ## Run
 
