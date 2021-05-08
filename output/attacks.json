@@ -1,0 +1,9 @@
+{
+  "start_timestamp": 1579977788.159908,
+  "end_timestamp": 1579978170.847968,
+  "duration_secs": 382.68806,
+  "total_packets": 233176,
+  "total_sessions": 133920,
+  "avg_pps": 0.0016411983222973205,
+  "packets_to_sessions_ratio": 1.7411589008363202
+}
